@@ -13,7 +13,7 @@ public class Main {
 
     }
 
-    class Product
+    public class Product
     {
         public int product(int x, int y)
         {
